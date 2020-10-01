@@ -23,4 +23,4 @@ Steps need to be followed for working of programs:
 2. Go in headlines column.
 3. Select the news channel whose's news you want.
 4. Copy the link paste in 'url' section.
- 5.Save the file.Run the program ,Enjoy.
+5. Save the file.Run the program ,Enjoy.
